@@ -484,14 +484,14 @@ public class Format {
             if (i > 0) {
                 if (Integer.parseInt(nomorIdtemp) == Integer.parseInt(nomorId[i])) {
                     //System.out.printf("hehehe");
-                    System.out.print(kodeMakanan[i]+" ");
+                    System.out.print(kodeMakanan[i]+",");
                 } else {
 
                     System.out.println();
-                    System.out.print(kodeMakanan[i]+" ");
+                    System.out.print(kodeMakanan[i]+",");
                 }
             } else {
-                System.out.print(kodeMakanan[i]+" ");
+                System.out.print(kodeMakanan[i]+",");
             }
 
             nomorIdtemp = nomorId[i];
