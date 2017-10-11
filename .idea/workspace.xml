@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="103915fd-96f6-4ba1-8746-7de67da55284" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Format.java" afterPath="$PROJECT_DIR$/src/Format.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,17 +42,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Format.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Format.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Format.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="486" column="57" lean-forward="true" selection-start-line="486" selection-start-column="57" selection-end-line="486" selection-end-column="57" />
+            <state relative-caret-position="370">
+              <caret line="497" column="9" lean-forward="true" selection-start-line="497" selection-start-column="9" selection-end-line="497" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="makanan.dat" pinned="false" current-in-tab="true">
+      <file leaf-file-name="makanan.dat" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/makanan.dat">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
@@ -115,7 +114,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="59" />
     <option name="width" value="1400" />
@@ -292,15 +291,15 @@
       <option name="presentableId" value="Default" />
       <updated>1507125131263</updated>
       <workItem from="1507125135499" duration="3710000" />
-      <workItem from="1507729967991" duration="6905000" />
+      <workItem from="1507729967991" duration="7529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10615000" />
+    <option name="totallyTimeSpent" value="11239000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="29" width="1938" height="1060" extended-state="7" />
+    <frame x="-9" y="29" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -406,18 +405,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Format.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="486" column="57" lean-forward="true" selection-start-line="486" selection-start-column="57" selection-end-line="486" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/makanan.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Format.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="497" column="9" lean-forward="true" selection-start-line="497" selection-start-column="9" selection-end-line="497" selection-end-column="9" />
           <folding />
         </state>
       </provider>
